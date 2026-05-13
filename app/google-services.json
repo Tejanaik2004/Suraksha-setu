@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89350001689",
+    "project_id": "surakshasetu-e89d2",
+    "storage_bucket": "surakshasetu-e89d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89350001689:android:b9d2df24059eeb22b60688",
+        "android_client_info": {
+          "package_name": "com.example.surakshasetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89350001689-t7g92ttnatq9snvq886bl65dinmogu06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXQNdAOo1lbW1qsh75g-mde4AKP_5ur4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89350001689-t7g92ttnatq9snvq886bl65dinmogu06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
